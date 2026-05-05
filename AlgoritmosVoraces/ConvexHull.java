@@ -1,7 +1,11 @@
 package AlgoritmosVoraces;
 
 import java.util.*;
-
+/**
+    * Smaller Elements Count - Divide y Vencerás
+    * Basado en el enfoque de GeeksForGeeks:
+    * https://www.geeksforgeeks.org/dsa/majority-element/
+*/
 public class ConvexHull {
    // Class to represent a point with x and y coordinates
     static class Point {
