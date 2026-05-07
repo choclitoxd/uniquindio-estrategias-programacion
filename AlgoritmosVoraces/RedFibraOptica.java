@@ -2,7 +2,8 @@ package AlgoritmosVoraces;
 
 import java.util.*;
 /**
-    * Árbol de Expansión Mínima (MST) usando Prim
+    * Árbol de Expansión Mínima (MST) usando Kruskal
+   
     * Basado en el enfoque de GeeksForGeeks:
     * https://www.geeksforgeeks.org/dsa/prims-minimum-spanning-tree-mst-greedy-algo-5/
 */
